@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "angkasa-timelapse",
+  "private_key_id": "657ac1e75cd38db2171dae4978ef6bc0261cb862",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCp7q4eTCNU3Jmc\nSrXrV/2gNGC049TUjYjvgMyzF/qu77M4glrsJcVxgGllr+uHp3X6jQZ14X5Ar4pf\nxbIpHjpurxD2rvS8X+KQgi87CGnAMRKGFXKtsriAC+F2TWIq0Ut6TiHLYnAzz23G\nbLxIvHPJCfl9E9nrme2XB6jhApTtBmCQKJ9J60X4C5XV6+qNObOjl7gSmxVkBMf/\nt0VmEn/Dxlo4lEKwkaX5wySan6O/rqhdi6wIpplzBJcvuE4O62bT1XQ37PkfttFk\n5CHaGqshrlYRpJehen6Db9ZxOnMBJ6AllH0FTdXkQ4XwJAkLyn7L59JWMPPlPiB4\nzbHIakxbAgMBAAECggEAKQAmMbg0JCMPyxZ5mz2BO9i3Zp27+cbmfccJXMLR4MiD\n6QQGtQiOAYs2ourVvMbKX/gL0YBlKm1QSThVerdI6PDDeomPEi5eZ3iJtcgbX9xX\nOFPPdhpziq2TKiyUnXkfKXTVkZGAOff36BLPQQt7Mkv+Ts/t2fsrSK/37sZlMWTe\nWLQGnyXhdXtqbVCEHftutp6ORxT+5VlEtGb1EhGWowRzgNJsup4Y0sJ/22OXerEB\nVZaXt1l3pejCGm0C0r8ZGZviGbkq+WxhKcIqOYHqXAhq37BGMpAM0Wi/IWdcE3I3\na5kFT6XNfFBrBefDfa847mHk/vEJ4aScTsdYQYnYjQKBgQDUMDcD+XAloHnJlrLC\nxpbYYU9+AvJj6rx5H027yzyHRIjikPSH7ufYvW4I9BRJAjk+nlHApiZBLmSaLiOw\n5hYs/Q+UoQSgzyaD3c2x/p90iFQIp1GvrxW1I05VnC9cVoZqDd9qr2xubkj05Uie\n+SxNFUCbVt8y7J7lrREgdMUHdQKBgQDNBOk5JzzTmM7b3cc6udyV+3SxjBSljXPC\nrc8D4JYwHXgMsWVGlA9FkW/FRahkkhxkugW+P66wG38ZQynKQokORvOporB6qOOb\nDMkAc/x5Y/ynirNuVyNqGYKf8DW3ZrealdFv/5Zg+Zg9rSFQrhOJElBqZO7/1Ts8\nEYtRZ0xajwKBgDjdDvFOuIIs5lZiv1c5VxV3xpDTg1fJgWbIP9Gy3m61rCVjiVSg\nbpuD8GgP2RvTr7mbPfdtz1SqdSVodgIjNxApZTKEkDP0L7MpDsXDocHeAv8qr9Zw\nClY3tvd0WrDZMz5ap2P0zQ8vGPggNfz8c6XYqy618iy4gsC0R6G2CVM9AoGAT/cs\naIhvZzDg7k0Qmk1IRo+vsliq7O/BSRu19RMyQU4dNwYyNFcnpcDWUaGbzq5WuMr9\n1njMUBBJgLb7o9JT1ufBvlagcxdQv3c7JxwWS9q9/zNQTSdbvtR4aJ2utfwwfPEW\noZKVOvnfcZ8HsYpUQFCOYRFBTzQCSKmnJ3cdBu0CgYBoFYY8ihsFaqAklzKYJ3q/\nsgwOtLsK65mAsWei6JLRxtssgKSzeKJLZKHgO/o6FGlsuOrTDxatAr7h1n0nU7cf\n7nwZOE8f7XvX0+Ki7hXYByTK671hU4PKskF3P6ZcyLWFOQc3lzjAZfxSyvjXc+fu\n3RobHytosUTEN59lvi+oYg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "angkasa-drive-uploader@angkasa-timelapse.iam.gserviceaccount.com",
+  "client_id": "105857177466733951341",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/angkasa-drive-uploader%40angkasa-timelapse.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
