@@ -5,7 +5,8 @@ import os
 import logging
 
 # Configuration
-SERVICE_ACCOUNT_FILE = r"angkasa-timelapse-657ac1e75cd3.json"  # Change this!
+# SERVICE_ACCOUNT_FILE = r"angkasa-timelapse-657ac1e75cd3.json"  # Change this!
+SERVICE_ACCOUNT_FILE = r"angkasa-timelapse-2657d62dcdab.json"  # Change this!
 LOCAL_FOLDER = r"image"  # Change this!
 DRIVE_FOLDER_ID = "1u8fcZtQnyEkCX81EvqYsTi2-Ly-Hvna8"  # Change this!
 IMAGE_EXTENSIONS = (".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff")
