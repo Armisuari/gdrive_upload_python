@@ -60,11 +60,11 @@ def upload_images_to_drive(drive, local_folder, drive_folder_id, image_extension
                 gfile = None
                 os.remove(file_path)
                 logger.info(f"Deleted: {filename} from local storage")
-                logger.info("All images uploaded and deleted successfully.")
 
             except Exception as e:
                 logger.error(f"Error uploading {filename}: {e}")
 
+    logger.info("Images upload and delete process are done.")
 
 def main():
     logger = init_logger()
